@@ -9,6 +9,7 @@ public class problem6
 		System.out.println("(1+2+3+...+k)^2="+(int)s1);
 		System.out.println("1^2+2^2+3^2+...+k^2="+(int)s2);
 		System.out.println("Reqired difference="+(int)(s1-s2));
+		System.out.println("Kshitiz Ranjan");
 	}
 
 
